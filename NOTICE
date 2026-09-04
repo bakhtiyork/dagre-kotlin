@@ -1,0 +1,16 @@
+dagre-kotlin
+
+Copyright (c) 2026 bakhtiyork
+
+This software is a Kotlin port derived from SwiftDagre:
+https://github.com/lukilabs/dagre-swift
+
+SwiftDagre is itself a port of @dagrejs/dagre:
+https://github.com/dagrejs/dagre
+
+The layout algorithms include work described by:
+- Gansner et al., "A Technique for Drawing Directed Graphs"
+- Brandes and Kopf, "Fast and Simple Horizontal Coordinate Assignment"
+- Eades, Lin, and Smyth, "A Fast and Effective Heuristic for the Feedback Arc Set Problem"
+
+The project is distributed under the MIT License found in LICENSE.
